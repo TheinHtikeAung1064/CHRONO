@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="CRONO_POS.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:CRONO_POS.WinUI">
+
+</maui:MauiWinUIApplication>
